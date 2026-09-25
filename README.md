@@ -1,14 +1,14 @@
-#  SISTEMAPROYECTO / TMC (Teknical May Cry)
+SISTEMAPROYECTO / TMC (Teknical May Cry)
 
-Repositorio oficial para el desarrollo del Proyecto Integrador Anual (P.I.A.) y actividades prácticas de la asignatura **Laboratorio de Programación (LPR)** de 5.° año.
+Repositorio oficial para el desarrollo del Proyecto Integrador Anual (P.I.A.) y actividades prácticas de la asignatura Laboratorio de Programación (LPR) de 5.° año.
 
 ---
 
-##  Datos del Estudiante
-* **Estudiante:** ferrari ulises
-* **Escuela:** EEST N.º 1 “Eduardo Ader” - Vicente López[cite: 1]
-* **Curso y División:** 5.° año 3.° (Grupos A-B)[cite: 1]
-* **Docente:** Mansilla Muñoz York Elías[cite: 1]
+
+Integrantes: Del Pino, Mattia, Orue, Ferrari 
+Escuela: EEST N.º 1 “Eduardo Ader” - Vicente López
+Curso y División: 5.° año 3.° (Grupos A-B)
+Docente: Ganduglia Yamil Mansilla Muñoz York Elías
 
 ---
 
